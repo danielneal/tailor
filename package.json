@@ -1,0 +1,13 @@
+{
+  "name": "shadow-tailor",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.8.12"
+  },
+  "dependencies": {
+    "mathjs": "^5.6.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
